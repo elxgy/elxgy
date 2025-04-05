@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm passionate about turning raw data into meaning
 
 **Data Analysis**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 **Infrastructure & DevOps**  
