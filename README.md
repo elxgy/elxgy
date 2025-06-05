@@ -3,7 +3,7 @@
 ## Knowledge
 
 **Languages & Tools**  
-Python · Go · SQL · Git
+Python · Go · SQL · Git · Linux
 
 **Data & Visualization**  
 Pandas · Tableau
