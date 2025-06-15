@@ -3,13 +3,13 @@
 ## Knowledge
 
 **Languages & Tools**  
-Python · Go · SQL · Git · Linux
+Python · Go · SQL · Linux
 
 **Data & Visualization**  
 Pandas · Tableau
 
 **DevOps**  
-Docker
+Docker · Git
 
 -------------
 
