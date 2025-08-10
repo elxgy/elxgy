@@ -1,6 +1,6 @@
 # Elxgy
 
-Hi there! 👋 I'm a developer with a strong focus on the intersection of **Data Science**, **Machine Learning**, and **Software Engineering**. I thrive in roles where I can leverage my expertise in Python for AI development and Go for building high-performance backend services.
+I'm a developer with a strong focus on the intersection of **Data Science**, **Machine Learning**, and **Software Engineering**. I thrive in roles where I can leverage my expertise in Python for AI development and Go for building high-performance backend services.
 
 -------------
 
