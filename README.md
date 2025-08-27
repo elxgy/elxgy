@@ -14,7 +14,7 @@ I'm a developer with a strong focus on the intersection of **Data Science**, **M
 ### 🗃️ Databases & Data Storage
 * **Relational (SQL):** PostgreSQL, MySQL
 * **NoSQL:** MongoDB
-* **Vector** ChromaDB
+* **Vectorial:** ChromaDB
 
 ### 🚀 Backend & CLI Development (Go)
 * **Web Development:** Building high-performance APIs and web services.
