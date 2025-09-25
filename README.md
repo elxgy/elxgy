@@ -26,6 +26,8 @@ I'm a developer with a strong focus on the intersection of **Data Science**, **M
 * **Version Control:** Git & GitHub
 * **Operating Systems:** Linux
 
+* ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 
 -------------
 
