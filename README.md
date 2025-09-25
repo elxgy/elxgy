@@ -26,6 +26,10 @@ I'm a developer with a strong focus on the intersection of **Data Science**, **M
 * **Version Control:** Git & GitHub
 * **Operating Systems:** Linux
 
+* <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elxgy&layout=compact&langs_count=6&theme=radical" alt="Top Langs"/>
+</p>
+
 -------------
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardozg/)
