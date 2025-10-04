@@ -1,30 +1,30 @@
 # Elxgy
 
-I'm a developer with a strong focus on the intersection of **Data Science**, **Machine Learning**, and **Software Engineering**. I thrive in roles where I can leverage my expertise in Python for AI development and Go for building high-performance backend services.
+I'm a developer with a strong focus on backend services, automation and AI engineering. My goals are to deploy efficient systems and services that are scalable, reliable and perfomant.
 
 -------------
 
-### 🧠 Data Science & Machine Learning
+### Data Science & Machine Learning
 * **ML Frameworks:** PyTorch, Scikit-learn
 * **NLP & Transformers:** Hugging Face, Transformers
 * **Data Manipulation & Analysis:** Pandas, NumPy
 * **Data Visualization:** Matplotlib, Seaborn
 * **Advanced Programming:** Distributed & Concurrent Programming in Python for large-scale model training
 
-### 🗃️ Databases & Data Storage
+### Databases & Data Storage
 * **Relational (SQL):** PostgreSQL, MySQL
 * **NoSQL:** MongoDB
 * **Vectorial:** ChromaDB
 
-### 🚀 Backend & CLI Development (Go)
-* **Web Development:** Building high-performance APIs and web services.
-* **Concurrency:** Leveraging Goroutines and Channels for efficient parallel processing.
-* **Real-time Communication:** Implementing WebSockets for interactive applications.
+### Backend Development
+* **Web Development:** Building robust, scalable, and high-performance APIs and web services using frameworks like FastAPI and Django (Python), Node.js and TypeScript, and Go.
+* **Concurrency:** Designing systems for efficient parallel processing, leveraging modern language features such as Goroutines and Channels (Go).
+* **Real-time Communication:** Implementing efficient bidirectional communication using technologies like WebSockets and Server-Sent Events (SSE) for highly interactive and data-intensive applications.
 
-### 🛠️ DevOps & MLOps
+### DevOps & MLOps
 * **Containerization:** Docker
 * **Version Control:** Git & GitHub
-* **Operating Systems:** Linux
+* **Operating Systems:** Linux and Windows
 
 -------------
 
