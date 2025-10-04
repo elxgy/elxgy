@@ -25,7 +25,11 @@ I'm a developer with a strong focus on the intersection of **Data Science**, **M
 * **Containerization:** Docker
 * **Version Control:** Git & GitHub
 * **Operating Systems:** Linux
-  
+
+-------------
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elxgy)](https://github.com/anuraghazra/github-readme-stats)
+
 -------------
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardozg/)
