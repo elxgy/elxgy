@@ -21,7 +21,7 @@ I'm a developer with a strong focus on backend services, automation and AI engin
 * **Concurrency:** Designing systems for efficient parallel processing, leveraging modern language features such as Goroutines and Channels (Go).
 * **Real-time Communication:** Implementing efficient bidirectional communication using technologies like WebSockets and Server-Sent Events (SSE) for highly interactive and data-intensive applications.
 
-### DevOps & MLOps
+### DevOps
 * **Containerization:** Docker
 * **Version Control:** Git & GitHub
 * **Operating Systems:** Linux and Windows
