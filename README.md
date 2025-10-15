@@ -28,8 +28,4 @@ I'm a developer with a strong focus on backend services, automation and AI engin
 
 -------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elxgy&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
--------------
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardozg/)
