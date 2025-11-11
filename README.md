@@ -1,30 +1,25 @@
 # Elxgy
 
-I'm a developer with a strong focus on backend services, automation and AI engineering. My goals are to deploy efficient systems and services that are scalable, reliable and perfomant.
+Hi, I develop AIs and some CLI tools
 
 -------------
+#Projects:
 
-### Data Science & Machine Learning
-* **ML Frameworks:** PyTorch, Scikit-learn
-* **NLP & Transformers:** Hugging Face, Transformers
-* **Data Manipulation & Analysis:** Pandas, NumPy
-* **Data Visualization:** Matplotlib, Seaborn
-* **Advanced Programming:** Distributed & Concurrent Programming in Python for large-scale model training
+##Centipede:
+### stack --> go and python
+Local codebase analyzer, indexes your whole codebase locally and uses a bunch of search methods to retrive the most relevant information given your question/search and passes to local model(like the IBM granite, which is small and light) for it to help you understand the codebase faster.
 
-### Databases & Data Storage
-* **Relational (SQL):** PostgreSQL, MySQL
-* **NoSQL:** MongoDB
-* **Vectorial:** ChromaDB
+##Gripen(WIP):
+### stack --> python and typescript
+AI developed to talk like humans, with humans. Will have voice recognition, TTS, vision, and a personality independent of system prompts. Gripen will be able to join discord calls, watch my desktop on daily activities and more.
 
-### Backend Development
-* **Web Development:** Building robust, scalable, and high-performance APIs and web services using frameworks like FastAPI and Django (Python), Node.js and TypeScript, and Go.
-* **Concurrency:** Designing systems for efficient parallel processing, leveraging modern language features such as Goroutines and Channels (Go).
-* **Real-time Communication:** Implementing efficient bidirectional communication using technologies like WebSockets and Server-Sent Events (SSE) for highly interactive and data-intensive applications.
+##Mirage:
+### stack --> go
+CLI tool developed to help measure application performance and resource consumption. Helps you track how the application spends the computer resources in a lower level. 
 
-### DevOps
-* **Containerization:** Docker
-* **Version Control:** Git & GitHub
-* **Operating Systems:** Linux and Windows
+##PokeCord:
+### stack --> python
+A pokemon discord bot made using the pokeapi and discord integration with python. It has a bunch of funcionalities, capturing pokemon, inventory system with limited pokeballs, pokeballs with different catch chances and raid battles so you can join your friends to fight legendary pokemons and have a chance at capturing them.
 
 -------------
 
