@@ -15,7 +15,7 @@ AI developed to talk like humans, with humans. Will have voice recognition, TTS,
 
 ## Mirage:
 
-CLI tool developed to help measure application performance and resource consumption. Helps you track how the application spends the computer resources in a lower level. 
+CLI tool developed to help measure application performance and resource consumption. Helps you track how the application spends the computer resources. 
 
 ## PokeCord:
 
