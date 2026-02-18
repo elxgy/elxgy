@@ -7,7 +7,7 @@ Hi, I develop AIs, some CLI tools and distributed systems
 
 ## [Centipede:](not public rn)
 
-Local codebase analyzer, indexes your whole codebase locally and uses a bunch of search methods to retrive the most relevant information given your question/search and passes to local model(like the IBM granite, which is small and light) for it to help you understand the codebase faster.
+Local codebase analyzer, indexes your whole codebase locally and uses a bunch of search methods to retrive the most relevant information given your question/search and passes to local model(currently using free gemini api for prototype) for it to help you understand the codebase faster.
 
 ## [PokeCord:](not public rn)
 
