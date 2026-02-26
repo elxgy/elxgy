@@ -15,7 +15,7 @@ A pokemon discord bot made using the pokeapi and discord integration with python
 
 ## [Chronos:](https://chronos-frontend-w0j4.onrender.com)
 
-A synchronized youtube player to watch videos with friends. It syncs your video with the others in the room, using the host(person who created the room) as the reference point. Only host can control the video(skips, pauses, loop video, autoplay) but others can still add videos/playlists to the queue. It's optimized to not overload server with sync requests, taking into account for network jitter, sync error margins(0.5/1 sec) and internet drops.
+A synchronized youtube player to watch videos with friends. It syncs your video with the others in the room, using the host(person who created the room) as the reference point. Only host can control the video(skips, pauses, loop video, autoplay) but others can still add videos/playlists to the queue. It's optimized to not overload server with sync requests, taking into account network jitter, sync error margins and internet drops.
 
 ## [Gripen(WIP):](https://github.com/elxgy/gripen-preview)
 
