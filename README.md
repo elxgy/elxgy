@@ -1,6 +1,6 @@
 # Elxgy
 
-Hi, I develop AIs, some CLI tools and distributed systems
+Hi, I develop some things
 
 -------------
 # Projects:
