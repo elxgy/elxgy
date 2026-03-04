@@ -5,7 +5,7 @@ Hi, I develop some things
 -------------
 # Projects:
 
-## [Orpheus:](finishing first dev phase)
+## [Orpheus:](https://github.com/Cabritto-Corps/orpheus)
 TUI spotify player in GO
 
 ## [Centipede:](https://github.com/elxgy/centipede)
